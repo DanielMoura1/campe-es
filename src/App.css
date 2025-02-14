@@ -151,12 +151,13 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-left: 5px;
     
   }
   .respostas{
     background-color: rgb(189, 211, 211);
     width: 100vw;
-    height: 45px;
+    height: 60px;
     display: flex;
     align-items: center;
     justify-content: center;
