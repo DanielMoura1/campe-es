@@ -118,7 +118,7 @@ function Home() {
                     <p>{pergunta}</p>
 
                 </div>
-                <div className='respostas' onClick={()=>respoder(quiz[numeroPergunta].r1)}> {resposta1}</div>
+                <div className='respostas' onClick={()=>respoder(quiz[numeroPergunta].r1)}>        {resposta1}</div> 
                 <div className='respostas' onClick={()=>respoder(quiz[numeroPergunta].r2)}>  {resposta2}</div>
                 <div className='respostas' onClick={()=>respoder(quiz[numeroPergunta].r3)}>  {resposta3}</div>
 
