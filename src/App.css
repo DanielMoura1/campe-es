@@ -94,7 +94,9 @@
   background-image: linear-gradient(to top,#535151,#272626);
   width: 33vw;
   height: 33vh;
-  position:fixed
+  position:fixed;
+  border-radius: 10px;
+  
   
 }
 .botaoFechar{
@@ -223,7 +225,8 @@
     background-image: linear-gradient(to top,#535151,#272626);
     width: 80vw;
     height: 33vh;
-    position:fixed
+    position:fixed;
+    border-radius: 10px;
     
   }
   
